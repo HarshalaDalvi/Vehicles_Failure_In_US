@@ -40,7 +40,7 @@
 
 <h2>Data Visualisation:</h2>
 
-<p><img src="dashboard.png" alt="Dashboard"></p>
+<p><img src="C:/Users/Harshala/Desktop/dashboard.png" alt="Dashboard"></p>
 
 
 
