@@ -40,6 +40,7 @@
 
 <h2>Data Visualisation:</h2>
 
+<p><img src="dashboard.png" alt="Dashboard"></p>
 
 
 
