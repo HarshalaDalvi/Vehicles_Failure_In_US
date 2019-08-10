@@ -7,7 +7,7 @@
 <body>
 <h2>&nbsp;<a href="https://www.dbs.ie/"><img alt="" src="https://debi0509.github.io/logo.jpg" style="width: 210px; height: 137px;" /></a></h2>
 
-<h1 style="text-align: center;"><u>World Religion Population</u></h1>
+<h1 style="text-align: center;"><u>Vehicle Failure In USA</u></h1>
 
 <p>Team Members:</p>
 
@@ -37,11 +37,6 @@
 <h2>Applications Used:</h2>
 
 <p>For this assignment we have used R programming and also we have build R- ShinyAPP . For better visualisations we have also used libraries such as; flexdashboard, rpivotTable, ggplot2, dplyr, ggvis. </p>
-
-<h2>Data Visualisation:</h2>
-
-<p><img src="C:/Users/Harshala/Desktop/dashboard.png" alt="Dashboard"></p>
-
 
 
 <h1>Contribution of Team members:</h1>
